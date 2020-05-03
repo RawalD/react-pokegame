@@ -1,0 +1,14 @@
+.Pokedex-cards{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.Pokedex-win{
+    
+    font-size: 50px;
+    text-align: center;
+    border: 2px teal solid;
+    border-radius: 50px;
+    width: 300px;
+}
